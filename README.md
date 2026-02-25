@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there, I'm Shuyi 👋
+I'm a french Bachelor student at EPFL in Chemistry 🇨🇭 
+😄 Pronouns: she/her
+📫 How to reach me: 
 <!--
 **shuyijuliettejia/shuyijuliettejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
